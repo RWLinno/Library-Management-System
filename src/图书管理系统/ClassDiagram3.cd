@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="图书管理系统.AddBooks" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUEDIBACOyRIwhwEgMCCEIWCIhpAgBAAQCgAAFiQGCQ=</HashCode>
+      <FileName>AddBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Admin">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIQAAAACAAAAAAIACAAAADAAAAAAAACAAAAABAAAQ=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.BooksManage">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQGASBhANCkAgEQQEACAAAQCIBIgnBEAACAAwACoLAg=</HashCode>
+      <FileName>BooksManage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.BorrowList">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="BorrowList" Hidden="true" />
+      <Method Name="BorrowList_Load" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="exitButtom_Click" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="searchBookButtom_Click" Hidden="true" />
+      <Method Name="showborrow" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAICAAABAAEACAABACIBgIBBAAEEAAAAAAAAg=</HashCode>
+      <FileName>BorrowList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.BorrowRecord">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADAAAAJCAAAAAAAACAAIgCAAAAAgBEACIAABAAQAA=</HashCode>
+      <FileName>BorrowRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.CommonUI">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYABQEgAMCAAAAAAAADAAAACIDIADBEAACAAgAAKCAA=</HashCode>
+      <FileName>CommonUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.DataBaseConnection">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YQAASAAggAQAAAgAQCABFgAAIACAEAAAgAAQABAAAAQ=</HashCode>
+      <FileName>DataBaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.图书系统登录记录">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAABIDAAABAAAACAACACAAgIAAAAAGEAAACAAAA=</HashCode>
+      <FileName>LoginDatas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Program">
+    <Position X="14.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.pwdModify">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAECQBAAQAACCAEAgCAAAECAAAACIQCiBsAAA=</HashCode>
+      <FileName>pwdModify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.SignIn">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAABAQQACAAEDEAACCAAAACAAAEIQADACAgFiBiAAA=</HashCode>
+      <FileName>SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.SignUp">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARCGRAQQICIABBADDCSBQihCYVAEABAPACAADiBIAAA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Start">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACACAkAAAAAAQgAAJAAgA=</HashCode>
+      <FileName>Start.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Unsubscribe">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAMCQAQBAAACCAAAACAAAEAAAABCIwAihgAAA=</HashCode>
+      <FileName>Unsubscribe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.User">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.UserManagement">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQFAEBIDAAABAAAASABCACAIgYAQAAEGAAAACAAAI=</HashCode>
+      <FileName>UserManagement .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Properties.Resources">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="图书管理系统.Properties.Settings">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
